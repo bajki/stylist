@@ -1,6 +1,6 @@
 {
     "name": "sindev95/stylist",
-    "description": "Laravel 6 theming package.",
+    "description": "Laravel 7 theming package.",
     "authors": [
         {
             "name": "Kirk Bushell",
@@ -17,8 +17,8 @@
     ],
     "require": {
         "php": "^7.2",
-        "laravelcollective/html": "^6.0",
-        "illuminate/support": "^6.0"
+        "laravelcollective/html": "^7.0",
+        "illuminate/support": "^7.0"
     },
     "require-dev": {
         "mockery/mockery": "^1.0",
