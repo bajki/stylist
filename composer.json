@@ -1,6 +1,6 @@
 {
     "name": "bajki/stylist",
-    "description": "Laravel 7 theming package.",
+    "description": "Laravel 8 theming package.",
     "authors": [
         {
             "name": "Kirk Bushell",
@@ -17,12 +17,12 @@
     ],
     "require": {
         "php": "^7.4",
-        "laravel/framework": "~5.2.0||~5.3.0||~5.4.0||~5.5.0||~5.6.0||~5.7.0||~5.8.0||^6.0||^7.0|^8"
+        "laravel/framework": "^8.0"
     },
     "require-dev": {
-        "mockery/mockery": "^1.0",
-        "orchestra/testbench": "^4.0",
-        "phpunit/phpunit": "^8.0"
+        "mockery/mockery": "~1.0",
+        "orchestra/testbench": "^6.2",
+        "phpunit/phpunit": "^8.5"
     },
     "autoload": {
         "psr-4": {
